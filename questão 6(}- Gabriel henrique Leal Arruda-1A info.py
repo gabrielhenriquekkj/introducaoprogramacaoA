@@ -1,0 +1,6 @@
+nota1 = float(input("nota do bimestre 1:"))
+nota2= float(input("nota do bimestre 2:"))
+nota3 = float(input("nota do bimestre 3:"))
+nota4 = float(input("nota do bimestre 4:"))
+soma = ((nota1*2)+(nota2*2)+(nota3*3)+nota4*3)
+print("sua nota final é:",soma/10)
