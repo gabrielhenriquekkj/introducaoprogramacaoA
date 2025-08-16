@@ -1,0 +1,6 @@
+numero = float(input("Digite o primeiro número para as contas:"))
+numero2= float(input("Digite o segundo número para as contas:"))
+print("A soma dos número digitados é:",numero + numero2)
+print("A subtração dos número digitados é:",numero - numero2)
+print("A multiplicação dos número digitados é:",numero * numero2)
+print("A divisão dos número digitados é:",numero / numero2,)
