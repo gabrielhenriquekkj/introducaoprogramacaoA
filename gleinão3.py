@@ -1,0 +1,5 @@
+x = input("Qual é o seu nome? ")
+y = input("Qual dos seguntes lanches você quer? (Hambúrguer, Pizza, hotdog) ")
+z = int(input("Quantos lanches você quer? "))
+print("Pedido confirmado!")
+print(x,"você pediu",y,"e a quantidade é",z)
