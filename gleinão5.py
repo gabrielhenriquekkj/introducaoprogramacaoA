@@ -1,11 +1,12 @@
 x = int(input("Digite sua idade:"))
-x = 0
+p = 0
 if x < 12:
-   x+=10
+   p+=10
 elif x >= 12 and x <= 17:
-    x+=15
+    p+=15
 elif x >= 18 and x <= 59:
-    x+=20
+    p+=20
 if x > 59:
-   x+=12
-print("O valor do ingresso é:",x)
+   p+=12
+
+print("O valor do ingresso é:",p)
